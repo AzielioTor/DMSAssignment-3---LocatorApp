@@ -1,0 +1,13 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}AUT DMS S1 2016
+${licensePrefix}Assignment : - Android Distributed Application
+${licensePrefix} Green, Terry (0829446)
+${licensePrefix} Prouting, Sez (0308852)
+${licensePrefix} Shaw, Aziel (14847095)
+${licensePrefix} 
+${licensePrefix} 
+<#if licenseLast??>
+${licenseLast}
+</#if>
